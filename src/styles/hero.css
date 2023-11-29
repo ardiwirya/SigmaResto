@@ -1,0 +1,46 @@
+.hero {
+  background: linear-gradient(rgba(0, 0, 5, .5), rgba(0, 0, 5, .5)), url("/src/public/images/hero-image.jpg") repeat center;
+  display: flex;
+	align-items: center;
+	min-height: 480px;
+	width: auto;
+  height: 500px;
+	justify-content: center;
+	background-position: center;
+}
+
+.hero_inner {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    position: absolute;
+}
+
+.hero_title {
+    color: #ffcc00;
+    font-weight: 600;
+    font-size: 72px;
+    text-shadow: 1px 1px #252B48;
+}
+
+.hero_tagline1 {
+    color: #EAEAEA;
+    text-shadow: 1px 1px #252B48;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.hero_tagline2 {
+  color: #F7E987;
+  text-shadow: 1px 1px #252B48;
+  font-size: 30px;
+  font-weight: 600;
+}

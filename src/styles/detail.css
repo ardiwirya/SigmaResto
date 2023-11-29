@@ -1,0 +1,251 @@
+.detail {
+    margin-top: 32px;
+}
+
+.restaurant-picture {
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    object-fit: cover;
+    object-position: center;
+}
+
+.detailRestaurant {
+    display: grid;
+    text-align: left;
+}
+
+.detailRestaurant h2 {
+    font-size: 2em;
+}
+
+.detailRestaurant p {
+    font-size: 1.5em;
+}
+
+.detailRestaurant i {
+    color: #F7E987;
+}
+
+.detailRestaurant-info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.detailRestaurant-info p {
+    margin: 10px;
+}
+
+.detailRestaurant-name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.detailRestaurant-address {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.detailRestaurant-rate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.restaurant-description-title {
+    text-align: center;
+    margin-bottom: 8px;
+    color: #F7E987;
+}
+
+.restaurant-description {
+    text-align: justify;
+}
+
+.restaurant-category {
+    text-align: left;
+}
+
+.restaurant-category-title {
+    margin: 10px;
+    border-radius: 12px;
+    border: 2px solid #F7E987;
+    color: #F7E987;
+    display: inline-block;
+    padding: 15px;
+    font-size: 1em;
+}
+
+.detailRestaurant-menu h2 {
+    font-size: 2.5em;
+    color: #F7E987;
+}
+
+.restaurant-menu h3 {
+    text-align: center;
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+.restaurant-menu p {
+    font-size: 1.5em;
+    margin: 5px;
+}
+
+.restaurant-menu ul {
+    margin: 0 auto;
+}
+
+.restaurant-menu li {
+    list-style-type: none;
+    text-align: left;
+}
+
+.restaurant-menu i {
+    color: #F7E987;
+}
+
+.restaurant-review-title {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #F7E987;
+}
+
+.review-title {
+    font-size: 1.2em;
+}
+
+.restaurant-review {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.restaurant-review i {
+    color: #F7E987;
+}
+
+.restaurant-review:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: transform 0.5s ease;
+}
+
+.review-header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #F7E987;
+    padding-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.review-name {
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: left;
+}
+
+.review-date {
+    font-size: 1rem;
+}
+
+.review-comment {
+    text-align: left;
+    padding-top: 10px;
+    font-size: 1.5em;
+}
+
+.form-review {
+    padding: 10px 20px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.form-review h2 {
+    font-size: 2em;
+    padding-bottom: 10px;
+    color: #F7E987;
+}
+
+.form-group {
+    flex-direction: row;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.form-group label {
+    font-size: 1.8em;
+}
+
+
+.form-control {
+    width: 80%;
+    padding: 5px;
+    margin: 5px;
+    font-size: 1rem;
+    min-height: 44px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid #fff;
+    background-color: transparent;
+    outline: none;
+    color: #fff;
+}
+
+.form-control::placeholder {
+    color: #F7E987;
+    opacity: 70%;
+}
+
+.submitReview {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #eaeaea;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 20px 10px;
+    border-radius: 15px;
+    border: 2px solid #F7E987;
+    background-color: #252B48;
+    cursor: pointer;
+    margin: auto;
+}
+
+.submitReview:hover {
+    background-color: #F7E987;
+    color: #252B48;
+    transition: transform 0.5s ease;
+}
+
+.like {
+    font-size: 20px;
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    background-color: #F7E987;
+    color: #252B48;
+    border: 1px solid #252B48;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .like:hover {
+    background-color: #252B48;
+    color: #F7E987;
+    transition: transform 0.5s ease;
+  }
+

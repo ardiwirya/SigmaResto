@@ -1,0 +1,15 @@
+.skip-content {
+	position: absolute;
+	top: -100px;
+	left: 0;
+	color: #F7E987;
+	background-color: #445069;
+	padding: 15px;
+	font-size: 15px;
+	z-index: 100;
+	text-decoration: none;
+}
+
+.skip-content:focus {
+	top: 80px;
+}
