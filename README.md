@@ -1,6 +1,6 @@
 # SigmaResto
 
-**SigmaResto** *(Restaurant Catalog)* - Aplikasi katalog restoran untuk submission kelas [Menjadi Front-End Developer Expert](https://www.dicoding.com/academies/219).
+**SigmaResto** *(Restaurant Catalog)* - Aplikasi katalog restoran untuk submission kelas [Menjadi Front-End Developer Expert](https://www.dicoding.com/academies/219). Rating submission Bintang 5⭐
 
 ## Sekilas
 
