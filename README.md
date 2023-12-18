@@ -17,11 +17,12 @@
 
 ## Fitur Aplikasi Katalog Restoran :
 * Katalog Restoran
-* Detail Rsetoran
+* Detail Restoran
 * Favorite Restoran
 * Search Favorite Restoran
 * Offline mode
 * Add to HomeScreen
+* Notification
 
 ## Scripts
 
