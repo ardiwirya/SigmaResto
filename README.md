@@ -1,6 +1,6 @@
 # SigmaResto
 
-**SigmaResto** *(Restaurant Catalog)* merupakan Progressive Web App katalog restoran, dibuat sebagai submission kelas [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/academies/219) — Dicoding. Submission ini merupakan proyek akhir dari jalur Front-End Web, mendapat rating **5/5**.
+**SigmaResto** *(Restaurant Catalog)* merupakan Progressive Web App katalog restoran, dibuat sebagai submission kelas [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/academies/219) by Dicoding. Submission ini merupakan proyek akhir dari jalur Front-End Web, mendapat rating **5/5**.
 
 **Demo:** [Sigma Resto](https://sigma-resto.netlify.app/)
 
