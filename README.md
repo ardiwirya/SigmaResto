@@ -50,7 +50,7 @@ Proyek ini menerapkan tiga lapis pengujian:
 - **Linting:** ESLint (Airbnb Base)
 
 ## Struktur Proyek
-
+ 
 ```
 sigmaresto/
 ├── dist/                       # Hasil build production
